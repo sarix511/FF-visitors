@@ -1,0 +1,602 @@
+[
+  {
+    "uid": "4735954558",
+    "token": "4f0ed5a97fd11c78d53f...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954559",
+    "token": "da30194e789a61b269d2ce54fcf18a67a618c0ca09693603ca985cec06f53ce9",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954564",
+    "token": "9a1f7836708c88da1ea4529e0456f18d7bbfde66c528d99be27de329f273eb6e",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954567",
+    "token": "c96852e3bae75e298fe1609ad280f709b27c7938ad614a3ceb0e3fcd7565a750",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954568",
+    "token": "d217aec3108be4ce56dbbf0204a679363b2c79f839340ab3bfa5a19bc453d2bf",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954576",
+    "token": "2f34d28bd0f0c77ef2c25f3ca91e64d17f4d3c4a358f259f9b7883dbc8d0c865",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954634",
+    "token": "grant   Thread 16 error: 403 Client Error: Forbidden for url: https://100067.connect.garena.com/api/v2/oauth/guest/token:grant",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954638",
+    "token": "38c29d1f7d9312c6da4e7540f4e117f7470804448052fd1e721d71b8910243eb",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954681",
+    "token": "bb9db6ad9d4e29ffd8b4...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954693",
+    "token": "5e593dc102df824cf3cb18faddbfc12b1fe18eb060f6e1e30d141a2de0c3e9d5",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954694",
+    "token": "3b474ee0c8f5b4f115ed912dc4857cb854e17b1b1c250f1a079e3325445363c0",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954696",
+    "token": "bd3a2f1c45f02a695a571a82e8cf3c3fc6d22491bfda056b96caf853d79a0319",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954695",
+    "token": "7806fe1a3aafdc5b926054885a4efc30f3a71aac135163610614b65b2a81d5a1",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954698",
+    "token": "7581dd530d496b1a68988284a8e4f04eee00170b9f9221b5ff43023883fec0c4",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954702",
+    "token": "e0868c168158858c5decb66cc36cb11ad5785dcf77eff644f96235bcaec2c95e",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954699",
+    "token": "f65025c2b49c573dd567d9454d60417094ad5cea3d78b6ed143c01b87f960af6",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954713",
+    "token": "386049d29151db1a3117e0e2ff9203f679ddebaae86ad77d44ab38489f839151",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954712",
+    "token": "bb9db6ad9d4e29ffd8b4299af27fb2c8c02d9bbb015dfec60bac16434a54873a",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954769",
+    "token": "440b93c17b6ac4c5a4da...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954771",
+    "token": "d29c88ddb9c070d241dd27281daf067a6c9db84f4551d38af73b8d8126af4f3f",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954772",
+    "token": "c6afddfdb41f895758570fc15ad022fc1d9e56a6cfc13baa764120cd360f238f",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954774",
+    "token": "de475c470d3017d0272134be6bc4165d90d93f7f1ed223f3cd4013eeb672cab2",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954780",
+    "token": "f5731284c9833a7a1b8448c609a0105c234a4f9daf28812ae36f83a724724a5d",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954819",
+    "token": "36ae81c87067e0234316...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954818",
+    "token": "59431a07bdfbb8e9a18869904f2bab06edea95bde747ad8306928ba3686be739",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954834",
+    "token": "4888e2d15a74d6e9ba6f791377909d6e200e7f84e28f15852e15f58a59de3a43",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954839",
+    "token": "471cd336c4b7dd393d69...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954842",
+    "token": "dc08ed02cfb0eed9fa40d0979565e4041ab44d9b487e4be7151d95479bbb197d",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954870",
+    "token": "5ff3728c481cc24af777...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954880",
+    "token": "f0bfe161452eb6cdfb80...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954884",
+    "token": "9619c489e3fbc6e9619de9586d047db1b9d4e5d87e0fac7e0bfb4f00eacc7108",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954895",
+    "token": "1667b75582a3a3c228d6...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954897",
+    "token": "3cc62d466331a144b381...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954899",
+    "token": "23e7b3d090a74599b5e1a476049e142bfc32f4f0c0653deacd7b8fe8812056c5",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954912",
+    "token": "fe664ba150cf9e98a876...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954922",
+    "token": "65ca9bc278a58879ac47...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954930",
+    "token": "grant  [1/5] UID: 4735954980",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954933",
+    "token": "fa860c2dc8dc35680356...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954942",
+    "token": "99b39c5af8fd983405e5c23a70a0cd939c4c18e3d5c1983a1bc1c6aefb6cdaf9",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954949",
+    "token": "03f2a66f57e04f352d1b...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954952",
+    "token": "c770f52475dd6e230ee03314f77a2e0026ccfe3681446ee550234cc257ffd5b7",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954956",
+    "token": "e432eb1f84fa8b874975...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954963",
+    "token": "fe664ba150cf9e98a876ac7ed3ff9c966b7643fcbff829ed39ef8a147411ae1e",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954977",
+    "token": "853acd77f79b1c4524c3...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954973",
+    "token": "5957088ab94d45dced535d0cc57f06bcff735eb67b7944d86d6f1096c332d985",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954991",
+    "token": "65ca9bc278a58879ac47ca167c70f5025cffe40667b5ca8a93bf923681ee3c91",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954980",
+    "token": "f40049e6e180e864f94c...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735954999",
+    "token": "dc4d01a87bd2bb16db24...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955013",
+    "token": "eb0d724373e1f46bdebc...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955016",
+    "token": "0c5aac0a0e331b10a1ec...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955035",
+    "token": "853acd77f79b1c4524c3077995ce4dac6b4347ee095112a773f2cf28fcf6401a",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955038",
+    "token": "f40049e6e180e864f94c7dd43763e1f658539e7aff2605ee06c99ca3aebafad8",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955039",
+    "token": "8892b1e26c017afbd41b4e292da79be1c697c2d3b709894a1b9b26ca4c88f013",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955042",
+    "token": "fbbd3dac23d66338760345d0c8efbae7bba69dea67ba07c8b9e798fc1f484f41",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955052",
+    "token": "8cc49e45d540a6cef81e...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955055",
+    "token": "590cc10001ba6baa9917...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955059",
+    "token": "71b29cd1da326a10cd98...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955096",
+    "token": "a1178fed12379b30481f...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955100",
+    "token": "1c4dd8d7cb14a1ef7c5a...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955102",
+    "token": "6a13b5c7b03f4d2626e27b3a8d2f6ef28808b8a2c07dd027f762b4359cbc8b11",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955103",
+    "token": "71b29cd1da326a10cd9844cfdfac16ab479c6b1eab8d10313d33e119fd803099",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955110",
+    "token": "406dab1d1eb937cb5739...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955112",
+    "token": "c2b4d042dfd441b3d310...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955118",
+    "token": "a5a2ce59c9bfec2a0c5b...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955119",
+    "token": "831000295c4fdd85e9f4...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955131",
+    "token": "669ab738090a38d6a5d6...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955123",
+    "token": "b6922e895edf53fccf1f...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955154",
+    "token": "b5e3500bac5be8aa19e1...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955161",
+    "token": "406dab1d1eb937cb573950ee1f0735448680b831e67b4441ffc94347f45ea4a5",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955162",
+    "token": "831000295c4fdd85e9f412ab82d492be5baa34507529dcce1e2240879ac71b21",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955169",
+    "token": "72fcb1d35acaee0ad206...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955177",
+    "token": "7ff2352414da850ceb136ae5e5b689d1bf149dfc18e04fc848c70579794b9b7f",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955189",
+    "token": "829eb7100c133f8b4954...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955202",
+    "token": "37d818f12baa87125cc3c6caa6886ecdfacedef9087f5e74430f45f8fb88fb4d",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955223",
+    "token": "af89222f8b3b56e66530...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955232",
+    "token": "c92755e7b5fe60166ef4...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955247",
+    "token": "8840cc15b890c179d5f9...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955254",
+    "token": "9bba36748e8ba73b69fe0702b37953019b980101b260dc8887040f1598170d75",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955259",
+    "token": "6ef86b592c7372a0cb3aa7e48852d0a1f24f06147a8d4f98224fdba1a77f1d8d",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955287",
+    "token": "11eae1ba576c6676fad1...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955282",
+    "token": "9e9ef06289716dae9ab4...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955310",
+    "token": "615abe0223872725f120...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955331",
+    "token": "8e40a63c480a39167031...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955333",
+    "token": "d7f9df52e38108773125...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955341",
+    "token": "92b603fa50a2e2952f50...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955350",
+    "token": "615abe0223872725f1208f513b4f99060bcac6f63717ff26a6104ff1c5f91210",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955353",
+    "token": "83fe9961902337e21f1da95d18e0314c5020c88ce2db11263715072d4b8ee4df",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955362",
+    "token": "ddbc63eceb810f496d0007c876c413e8726d2cca4b4bf01f82cf636f40e65454",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955366",
+    "token": "0b5e3421cfbaa8c4823ae8f1dc7bb14fd76a4f5140ec46626170a9c776b4d6c8",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955368",
+    "token": "0a37b809c59e3edbcc67476a9fde42f9476a44af531ee5da611c4b8d1b53c0be",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955378",
+    "token": "8e40a63c480a39167031f9b30eac6c7267f82f6594c86b447ee6b7355a6fd9fd",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955381",
+    "token": "b06185138f1238d323d0...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955425",
+    "token": "741cb15b781cbb13551b...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955433",
+    "token": "3f86b7cbebd5df086bdd...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955449",
+    "token": "8506401d8784384e0fa5...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955464",
+    "token": "0e6c6b85de48e6e47c26...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955478",
+    "token": "d7d1ead340a7a10bd589...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955479",
+    "token": "3f86b7cbebd5df086bddafb25f075c8e93b527071d01e7135764a90405b1338c",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955488",
+    "token": "ebbd4ea803802198937b...",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  },
+  {
+    "uid": "4735955489",
+    "token": "dd39f655298916b2720444cff353f064c2b7a0e79638db1a9b32b9f2cd1de326",
+    "region": "PK",
+    "api": "https://clientbp.ggblueshark.com"
+  }
+]
